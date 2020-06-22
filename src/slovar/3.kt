@@ -1,0 +1,5 @@
+package slovar
+
+fun main() {
+
+}

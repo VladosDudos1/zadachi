@@ -1,0 +1,5 @@
+package mnozhestva
+
+fun main() {
+
+}
